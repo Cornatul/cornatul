@@ -115,6 +115,11 @@ class Profile extends Me
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A React component for reading Kodemo documents](https://lzomedia.com/a-react-component-for-reading-kodemo-documents/)
+- [A whatsapp web clone using react, mongodb and web sockets](https://lzomedia.com/a-whatsapp-web-clone-using-react-mongodb-and-web-sockets/)
+- [React Digest](https://lzomedia.com/react-digest/)
+- [Fixing a Memory Leak in a Production Node.js App](https://lzomedia.com/fixing-a-memory-leak-in-a-production-node-js-app/)
+- [FortiOS Flaw Exploited as Zero-Day in Attacks on Government and Organizations](https://lzomedia.com/fortios-flaw-exploited-as-zero-day-in-attacks-on-government-and-organizations/)
 <!-- BLOG-POST-LIST:END -->
 
 
