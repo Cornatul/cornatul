@@ -199,11 +199,11 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A React component for reading Kodemo documents](https://lzomedia.com/a-react-component-for-reading-kodemo-documents/)
-- [A whatsapp web clone using react, mongodb and web sockets](https://lzomedia.com/a-whatsapp-web-clone-using-react-mongodb-and-web-sockets/)
-- [React Digest](https://lzomedia.com/react-digest/)
-- [Fixing a Memory Leak in a Production Node.js App](https://lzomedia.com/fixing-a-memory-leak-in-a-production-node-js-app/)
-- [FortiOS Flaw Exploited as Zero-Day in Attacks on Government and Organizations](https://lzomedia.com/fortios-flaw-exploited-as-zero-day-in-attacks-on-government-and-organizations/)
+- [PHPCS The beauty of it](http://lzomedia.com/phpcs-the-beauty-of-it/)
+- [The benefits of using Laravel, Hexagonal Arhitecture and RabbitMQ](http://lzomedia.com/the-benefits-of-using-laravel-hexagonal-arhitecture-and-rabbitmq/)
+- [Smart Contracts: An Evolutionary Approach to Streamlining Business Processes](http://lzomedia.com/smart-contracts-an-evolutionary-approach-to-streamlining-business-processes/)
+- [The Ability to Visualize: Exploring Aphantasia and Mental Imagery](http://lzomedia.com/the-ability-to-visualize-exploring-aphantasia-and-mental-imagery/)
+- [A React component for reading Kodemo documents](http://lzomedia.com/a-react-component-for-reading-kodemo-documents/)
 <!-- BLOG-POST-LIST:END -->
 
 
