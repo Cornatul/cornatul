@@ -199,11 +199,11 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PHPCS The beauty of it](http://lzomedia.com/phpcs-the-beauty-of-it/)
-- [The benefits of using Laravel, Hexagonal Arhitecture and RabbitMQ](http://lzomedia.com/the-benefits-of-using-laravel-hexagonal-arhitecture-and-rabbitmq/)
-- [Smart Contracts: An Evolutionary Approach to Streamlining Business Processes](http://lzomedia.com/smart-contracts-an-evolutionary-approach-to-streamlining-business-processes/)
-- [The Ability to Visualize: Exploring Aphantasia and Mental Imagery](http://lzomedia.com/the-ability-to-visualize-exploring-aphantasia-and-mental-imagery/)
-- [A React component for reading Kodemo documents](http://lzomedia.com/a-react-component-for-reading-kodemo-documents/)
+- [PHPCS The beauty of it](https://lzomedia.com/phpcs-the-beauty-of-it/)
+- [The benefits of using Laravel, Hexagonal Arhitecture and RabbitMQ](https://lzomedia.com/the-benefits-of-using-laravel-hexagonal-arhitecture-and-rabbitmq/)
+- [Smart Contracts: An Evolutionary Approach to Streamlining Business Processes](https://lzomedia.com/smart-contracts-an-evolutionary-approach-to-streamlining-business-processes/)
+- [The Ability to Visualize: Exploring Aphantasia and Mental Imagery](https://lzomedia.com/the-ability-to-visualize-exploring-aphantasia-and-mental-imagery/)
+- [A React component for reading Kodemo documents](https://lzomedia.com/a-react-component-for-reading-kodemo-documents/)
 <!-- BLOG-POST-LIST:END -->
 
 
