@@ -155,18 +155,16 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-PHP                      10 mins             ███████████████████████░░   90.46 % 
-Blade Template           1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wordpress                10 mins             ███████████████████████░░   90.46 % 
-PhpstormProjects         1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -186,7 +184,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cornatul/Cornatul/master/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2023 00:18:12 UTC
+ Last Updated on 12/03/2023 12:06:32 UTC
 <!--END_SECTION:waka-->
 
 
