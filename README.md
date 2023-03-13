@@ -190,11 +190,11 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PHPCS The beauty of it](https://lzomedia.com/phpcs-the-beauty-of-it/)
-- [The benefits of using Laravel, Hexagonal Arhitecture and RabbitMQ](https://lzomedia.com/the-benefits-of-using-laravel-hexagonal-arhitecture-and-rabbitmq/)
-- [Smart Contracts: An Evolutionary Approach to Streamlining Business Processes](https://lzomedia.com/smart-contracts-an-evolutionary-approach-to-streamlining-business-processes/)
-- [The Ability to Visualize: Exploring Aphantasia and Mental Imagery](https://lzomedia.com/the-ability-to-visualize-exploring-aphantasia-and-mental-imagery/)
-- [A React component for reading Kodemo documents](https://lzomedia.com/a-react-component-for-reading-kodemo-documents/)
+- [How to create an api for cleaning bad content and use NLP](http://lzomedia.com/how-to-create-an-api-for-cleaning-bad-content-and-use-nlp/)
+- [How to implement the Observer Design Pattern in Symfony Framework](http://lzomedia.com/how-to-implement-the-observer-design-pattern-in-symfony-framework/)
+- [How to implement Proxy Design Pattern in PHP](http://lzomedia.com/how-to-implement-proxy-design-pattern-in-php/)
+- [How to use usome Composite Design pattern in PHP](http://lzomedia.com/how-to-use-usome-composite-design-pattern-in-php/)
+- [Why and how to use Adapter Design Patter](http://lzomedia.com/why-and-how-to-use-adapter-design-patter/)
 <!-- BLOG-POST-LIST:END -->
 
 
