@@ -190,11 +190,11 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to create an api for cleaning bad content and use NLP](http://lzomedia.com/how-to-create-an-api-for-cleaning-bad-content-and-use-nlp/)
-- [How to implement the Observer Design Pattern in Symfony Framework](http://lzomedia.com/how-to-implement-the-observer-design-pattern-in-symfony-framework/)
-- [How to implement Proxy Design Pattern in PHP](http://lzomedia.com/how-to-implement-proxy-design-pattern-in-php/)
-- [How to use usome Composite Design pattern in PHP](http://lzomedia.com/how-to-use-usome-composite-design-pattern-in-php/)
-- [Why and how to use Adapter Design Patter](http://lzomedia.com/why-and-how-to-use-adapter-design-patter/)
+- [How to use a power sensor to create your own dashboard of power consumntion](https://lzomedia.com/how-to-use-a-power-sensor-to-create-your-own-dashboard-of-power-consumntion/)
+- [How to create an api for cleaning bad content and use NLP](https://lzomedia.com/how-to-create-an-api-for-cleaning-bad-content-and-use-nlp/)
+- [How to implement the Observer Design Pattern in Symfony Framework](https://lzomedia.com/how-to-implement-the-observer-design-pattern-in-symfony-framework/)
+- [How to implement Proxy Design Pattern in PHP](https://lzomedia.com/how-to-implement-proxy-design-pattern-in-php/)
+- [How to use usome Composite Design pattern in PHP](https://lzomedia.com/how-to-use-usome-composite-design-pattern-in-php/)
 <!-- BLOG-POST-LIST:END -->
 
 
